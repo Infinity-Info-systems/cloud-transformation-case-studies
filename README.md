@@ -20,22 +20,30 @@ The purpose is to translate enterprise cloud, SRE, FinOps, disaster recovery, go
 
 This repository helps demonstrate:
 
-- Measurable enterprise technology impact
-- Reusable transformation patterns
-- Governance-driven modernization
-- Reliability and resilience improvement
-- Cost optimization outcomes
-- Executive technology leadership
+- measurable enterprise technology impact
+- reusable transformation patterns
+- governance-driven modernization
+- reliability and resilience improvement
+- cost optimization outcomes
+- executive technology leadership
 
 ## Impact Themes
 
-- Cloud cost reduction
-- Uptime and availability improvement
+- cloud cost reduction
+- uptime and availability improvement
 - MTTR reduction
-- Governance maturity improvement
-- Disaster recovery readiness
-- Compliance alignment
-- Architecture modernization
+- governance maturity improvement
+- disaster recovery readiness
+- compliance alignment
+- architecture modernization
+
+## How To Use This Repo
+
+1. Read the repository overview and case study methodology.
+2. Review the transformation impact model and executive storytelling framework.
+3. Use the case study template and impact metrics template.
+4. Expand the case studies and evidence index next.
+5. Reference the linked framework repositories when writing each story.
 
 ## Repository Structure
 
@@ -44,19 +52,9 @@ docs/          Methodology and storytelling model
 case-studies/  Anonymized case studies
 templates/     Reusable case-study templates
 metrics/       Impact metrics catalog
-diagrams/      Visual models
 evidence/      Evidence index
 references/    Bibliography
-use-cases/     Example transformation scenarios
-
 ```
-
-## Start Here
-
-1. Read the repository overview and case study methodology.
-2. Review the transformation impact model and executive storytelling framework.
-3. Use the case study template and impact metrics template.
-4. Expand the case studies and evidence index next.
 
 ## Shared Direction
 
@@ -65,3 +63,8 @@ Use this repository to turn transformation experience into reusable public case-
 ## Core Content
 
 - [Transformation Case Registry](metrics/transformation-case-registry.md)
+- [Repository Overview](docs/repository-overview.md)
+- [Case Study Methodology](docs/case-study-methodology.md)
+- [Executive Storytelling Framework](docs/executive-storytelling-framework.md)
+- [Transformation Impact Model](docs/transformation-impact-model.md)
+- [Content Index](docs/content-index.md)
