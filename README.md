@@ -48,3 +48,20 @@ diagrams/      Visual models
 evidence/      Evidence index
 references/    Bibliography
 use-cases/     Example transformation scenarios
+
+```
+
+## Start Here
+
+1. Read the repository overview and case study methodology.
+2. Review the transformation impact model and executive storytelling framework.
+3. Use the case study template and impact metrics template.
+4. Expand the case studies and evidence index next.
+
+## Shared Direction
+
+Use this repository to turn transformation experience into reusable public case-study assets.
+
+## Core Content
+
+- [Transformation Case Registry](metrics/transformation-case-registry.md)
