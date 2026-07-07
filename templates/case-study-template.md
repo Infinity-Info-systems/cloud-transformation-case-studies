@@ -40,3 +40,7 @@
 - metric references
 - source artifacts
 - validation notes
+
+## Template Rule
+
+Keep the case study short enough to read quickly but detailed enough to support evidence and reuse.

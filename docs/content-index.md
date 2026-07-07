@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for transformation case studies, impact evidence, and executive storytelling.
+Use it to move from the overall case-study method to the exact story or metric artifact you need.
 
 ## Entry Points
 
@@ -36,7 +37,16 @@ This index organizes the repo into a front door for transformation case studies,
 
 - [Bibliography](../references/bibliography.md)
 
+## Reading Order
+
+1. Repository overview
+2. Case study methodology
+3. Executive storytelling framework
+4. Transformation impact model
+5. Case studies
+6. Metrics, evidence, and templates
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so case studies stay reusable and easy to connect across the ecosystem.
-
+Keep each page concise enough to scan and specific enough to support publication-quality output.

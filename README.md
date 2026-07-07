@@ -5,6 +5,7 @@
 This repository organizes anonymized cloud transformation case studies, executive impact narratives, metrics, and reusable case-study templates.
 
 The purpose is to translate enterprise cloud, SRE, FinOps, disaster recovery, governance, and architecture experience into structured public knowledge assets.
+It is intended to help teams publish credible transformation stories that are measurable, reusable, and easy to review.
 
 ## Case Study Areas
 
@@ -26,6 +27,17 @@ This repository helps demonstrate:
 - reliability and resilience improvement
 - cost optimization outcomes
 - executive technology leadership
+- executive storytelling
+- evidence-backed outcomes
+- reusable public narratives
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- methodology and storytelling guidance
+- case studies and metrics
+- templates and evidence references
 
 ## Impact Themes
 
@@ -44,6 +56,7 @@ This repository helps demonstrate:
 3. Use the case study template and impact metrics template.
 4. Expand the case studies and evidence index next.
 5. Reference the linked framework repositories when writing each story.
+6. Keep the language anonymized but still specific enough to be useful.
 
 ## Repository Structure
 
@@ -59,6 +72,10 @@ references/    Bibliography
 ## Shared Direction
 
 Use this repository to turn transformation experience into reusable public case-study assets.
+
+## Operating Principle
+
+A good case study should show what changed, why it mattered, and how the result was validated.
 
 ## Core Content
 

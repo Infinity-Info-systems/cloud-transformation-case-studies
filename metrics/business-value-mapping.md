@@ -18,3 +18,7 @@ This mapping shows how transformation work connects to business value.
 - connect each metric to a business outcome
 - avoid using technical metrics without context
 - show whether value is realized or projected
+
+## Use
+
+Use this mapping to keep the story tied to outcomes that executives care about.

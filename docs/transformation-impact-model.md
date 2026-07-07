@@ -28,3 +28,8 @@ The impact model connects transformation actions to measurable outcomes so case 
 - connect every action to a measurable result
 - describe the business effect, not only the technical action
 - include trend data when possible
+- identify whether the outcome is realized or projected
+
+## Impact Rule
+
+Every action should connect to a measurable result that matters to the business.

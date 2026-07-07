@@ -37,3 +37,8 @@
 - use baseline and trend together
 - cite the source of each metric
 - update the catalog as the story set evolves
+- keep the metrics understandable without extra context
+
+## Catalog Rule
+
+Only include metrics that help prove the transformation story, not just describe activity.

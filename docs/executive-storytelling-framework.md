@@ -18,6 +18,7 @@ This framework helps turn technical transformation work into an executive-ready 
 - keep the language simple and direct
 - avoid unnecessary implementation detail
 - connect the story to leadership priorities
+- show the measurable result before the implementation detail
 
 ## Useful Story Elements
 
@@ -27,6 +28,10 @@ This framework helps turn technical transformation work into an executive-ready 
 - evidence
 - result
 - lesson
+
+## Story Outcome
+
+The story should help a leader understand what changed and why the change mattered without reading a technical report.
 
 ## Executive Questions To Answer
 

@@ -26,6 +26,7 @@ This methodology defines how to write a transformation case study so it is credi
 - describe the change
 - show the measurable outcome
 - include lessons learned
+- describe the business outcome in plain language
 
 ### 4. Validate
 
@@ -53,3 +54,7 @@ This methodology defines how to write a transformation case study so it is credi
 - vague outcome statements
 - no metric references
 - no connection to the broader framework
+
+## Method Outcome
+
+The methodology should make every case study credible, comparable, and easy to connect to the framework repos.

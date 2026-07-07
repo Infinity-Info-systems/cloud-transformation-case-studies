@@ -53,6 +53,11 @@ Use this registry to track transformation cases, impact metrics, and executive l
 - pair every story with metrics
 - use a common before/after structure
 - link each case to the relevant framework repo
+- keep one registry entry per published case
+
+## Registry Rule
+
+The registry should make it easy to find the story, the metrics, and the supporting evidence together.
 
 ## Related Artifacts
 

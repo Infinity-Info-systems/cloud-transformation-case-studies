@@ -21,3 +21,7 @@ The evidence index tracks where supporting artifacts are stored for each case st
 - date
 - owner
 - notes
+
+## Use
+
+Use this index to keep supporting artifacts easy to find, review, and reuse when a case study is updated.

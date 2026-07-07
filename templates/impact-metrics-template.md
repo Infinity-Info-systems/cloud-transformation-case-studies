@@ -15,3 +15,7 @@
 - metric source
 - time period
 - interpretation
+
+## Use
+
+Use this template to show the before/after movement that supports the published case study.
