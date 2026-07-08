@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for transformation case studies, impact evidence, and executive storytelling.
 Use it to move from the overall case-study method to the exact story or metric artifact you need.
+The structure is designed so a reviewer can move from the narrative frame into the metrics and evidence that support it.
 
 ## Entry Points
 
@@ -46,7 +47,20 @@ Use it to move from the overall case-study method to the exact story or metric a
 5. Case studies
 6. Metrics, evidence, and templates
 
+## Visual Route
+
+```mermaid
+flowchart LR
+  A[Repository Overview] --> B[Case Study Methodology]
+  B --> C[Executive Storytelling Framework]
+  C --> D[Transformation Impact Model]
+  D --> E[Case Studies]
+  E --> F[Metrics and Evidence]
+  F --> G[Templates]
+```
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so case studies stay reusable and easy to connect across the ecosystem.
 Keep each page concise enough to scan and specific enough to support publication-quality output.
+If a page does not help prove, compare, or publish the story, move that detail into a more focused case study or metric artifact.
