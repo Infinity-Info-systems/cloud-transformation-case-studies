@@ -103,3 +103,8 @@ A good case study should show what changed, why it mattered, and how the result 
 - [Executive Storytelling Framework](docs/executive-storytelling-framework.md)
 - [Transformation Impact Model](docs/transformation-impact-model.md)
 - [Content Index](docs/content-index.md)
+
+## Code Direction
+
+This repo now includes a typed case registry in `src/` so transformation stories, metrics, and evidence can be reused in tools or future app pages.
+The code layer mirrors the story layers, case themes, and publication rules described in the repository.
