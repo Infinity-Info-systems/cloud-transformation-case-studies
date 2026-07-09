@@ -6,6 +6,17 @@ This repository turns transformation work into published case-study content that
 It helps the team turn experience into a repeatable public narrative with evidence behind it.
 The goal is to make transformation stories credible, visually scannable, and easy to reuse on the parent MCGR page and related webpages.
 
+## Publication Flow
+
+```mermaid
+flowchart LR
+    A["Transformation Event"] --> B["Narrative Draft"]
+    B --> C["Evidence Check"]
+    C --> D["Metric Validation"]
+    D --> E["Case Study"]
+    E --> F["Public Page Link"]
+```
+
 ## What It Covers
 
 - transformation context
@@ -58,3 +69,13 @@ It should also be easy to reference from the parent MCGR page so the case-study 
 - impact metric summaries
 - executive summaries
 - evidence indexes
+
+## Story Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Narrative | What changed? | Case study draft |
+| Evidence | How do we know? | Evidence index |
+| Metrics | What improved? | Impact metrics |
+| Executive | Why did it matter? | Executive summary |
+| Publication | How is it shared? | Parent MCGR page link |

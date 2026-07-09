@@ -33,6 +33,16 @@ This framework helps turn technical transformation work into an executive-ready 
 
 The story should help a leader understand what changed and why the change mattered without reading a technical report.
 
+## Story Table
+
+| Story Part | What It Should Do | Example Focus |
+| --- | --- | --- |
+| Context | Explain the starting point | Risk, cost, or reliability challenge |
+| Change | Describe the intervention | Governance, architecture, or operations change |
+| Result | Show the outcome | Savings, uptime, or delivery improvement |
+| Validation | Prove it mattered | Metrics and evidence |
+| Next Step | Indicate what follows | Expansion, sustainment, or follow-up work |
+
 ## Executive Questions To Answer
 
 - What was the issue?
@@ -40,3 +50,7 @@ The story should help a leader understand what changed and why the change matter
 - What changed?
 - What improved?
 - What should happen next?
+
+## Story Rule
+
+If the result cannot be stated in one sentence and supported with one metric or evidence reference, the story is not yet ready to publish.

@@ -6,6 +6,17 @@ This index organizes the repo into a front door for transformation case studies,
 Use it to move from the overall case-study method to the exact story or metric artifact you need.
 The structure is designed so a reviewer can move from the narrative frame into the metrics and evidence that support it.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Repository Overview | Understand the publication model |
+| 2 | Case Study Methodology | See how stories are structured |
+| 3 | Executive Storytelling Framework | Shape the executive narrative |
+| 4 | Transformation Impact Model | Connect change to measured value |
+| 5 | Case Studies | Review reusable examples |
+| 6 | Metrics, evidence, templates | Package the publication |
+
 ## Entry Points
 
 - [Transformation Case Registry](metrics/transformation-case-registry.md)
@@ -64,3 +75,12 @@ flowchart LR
 Use the same section structure as the other core repos so case studies stay reusable and easy to connect across the ecosystem.
 Keep each page concise enough to scan and specific enough to support publication-quality output.
 If a page does not help prove, compare, or publish the story, move that detail into a more focused case study or metric artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Write a case study | Case Study Template |
+| Summarize impact | Impact Metrics Template |
+| Write the executive version | Executive Summary Template |
+| Connect evidence | Evidence Index |
